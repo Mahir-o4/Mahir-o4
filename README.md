@@ -14,11 +14,7 @@ I enjoy creating impactful projects, from **real-world problem-solving tactics**
 
 ## ⚙️ Languages and Tools
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100%">
+<div align="left">
 
 ### 🖥️ Programming Languages
 <p>
@@ -119,9 +115,6 @@ I enjoy creating impactful projects, from **real-world problem-solving tactics**
     </a>
 </p>
 
-</td>
-</tr>
-</table>
 
 </div>
 
