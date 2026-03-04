@@ -115,7 +115,7 @@ I enjoy creating impactful projects, from **real-world problem-solving tactics**
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="48" height="48"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="48" height="48" style="filter: invert(1);"/>
     </a>
 </p>
 
