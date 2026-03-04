@@ -62,6 +62,10 @@ I enjoy creating impactful projects, from **real-world problem-solving tactics**
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/>
     </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="48" height="48"/>
+    </a>
+        &nbsp;&nbsp;&nbsp;
 </p>
 
 <br/>
@@ -118,9 +122,12 @@ I enjoy creating impactful projects, from **real-world problem-solving tactics**
 
 </div>
 
+## 💼 Portfolio:
+🌐 Explore my work: **[View Portfolio](https://mahirashef12.vercel.app)**
+
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahir-ashef-011776290)&nbsp;&nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@skmahirashef04)&nbsp;&nbsp;[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skmahirashef04@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahir-ashef-011776290) [![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@skmahirashef04) [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skmahirashef04@gmail.com)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mahir-o4&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mahir-o4&theme=aura&hide_border=false)<br/>
