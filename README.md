@@ -1,146 +1,94 @@
 # Bonjour, I'm Mahir 👋
 
-💡 **ML Enthusiast | Occasional Frontend | Tech Explorer**  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=A277FF&width=700&lines=Yes+I+push+to+main...;My+code+works+and+I+have+no+idea+why;Stack+Overflow+with+a+portfolio;Git+commit+-m+'final_FINAL_v3_real_final';I+don't+have+bugs%2C+just+surprise+features;Currently+Googling+what+I+just+coded;It+works+on+my+machine%2C+ship+it;404%3A+Sleep+not+found;Trained+a+model%2C+still+can't+train+myself+to+sleep+early;ML+guy+who+Googles+list+comprehensions;99%25+of+my+bugs+are+skill+issues;Writing+TypeScript+so+I+feel+professional;The+CSS+is+always+someone+else's+problem;Confidence%3A+0.94+%7C+Accuracy%3A+variable;Works+in+dev%2C+panics+in+prod;Currently+overengineering+something+simple;Developer+by+day%2C+debugger+by+3am;Git+blame+always+points+to+me;I+read+the+docs...+eventually;My+variable+names+make+sense+to+me;Ships+fast%2C+fixes+faster+(sometimes);Console.log(%22Why+isn't+this+working%22);Caffeine-driven+development;Undefined+is+not+a+vibe" alt="Typing SVG" />
 
-I’m a passionate developer and thinker who blends **engineering precision** with a **storyteller’s creativity**.  
-I enjoy creating impactful projects, from **real-world problem-solving tactics** to **feature-rich collaborative coding platforms**.  
+💡 **ML Enthusiast | Occasional Frontend | Tech Explorer**
+
+I'm a passionate developer and thinker who blends **engineering precision** with a **storyteller's creativity**.
+I enjoy creating impactful projects, from **real-world problem-solving tactics** to **feature-rich collaborative coding platforms**.
 
 ---
 
-# 😎 About Me:
-- 🔭 Currently building **real-time collaborative coding platforms** and **IoT robotics projects**  <br>- 🌱 Learning advanced **web architectures**, **NLPs**, and **edge AI**  <br>- 🎯 Interested in **IoT**, **AI/ML**, **real-time systems**, and **human–computer interaction**  
+## 😎 About Me
 
+- 🔭 Currently building **real-time collaborative coding platforms** and **IoT robotics projects**
+- 🌱 Learning advanced **web architectures**, **NLPs**, and **edge AI**
+- 🎯 Interested in **IoT**, **AI/ML**, **real-time systems**, and **human–computer interaction**
 
+---
 
 ## ⚙️ Languages and Tools
 
-<div align="left">
-
 ### 🖥️ Programming Languages
-<p>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="48" height="48"/>
-    </a>
-</p>
 
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🌐 Web Development
-<p>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="48" height="48"/>
-    </a>
-        &nbsp;&nbsp;&nbsp;
-</p>
 
-<br/>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🗄️ Databases
-<p>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="58" height="58"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="58" height="58"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="58" height="58"/>
-    </a>
-</p>
 
-<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧠 ML Libraries
-<p>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="48" height="48"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
-    </a>
-</p>
 
-<br/>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### ⚙️ Tools
-<p>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="48" height="48" style="filter: invert(1);"/>
-    </a>
-</p>
 
-
-</div>
-
-## 💼 Portfolio:
-🌐 Explore my work: **[View Portfolio](https://mahirashef12.vercel.app)**
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahir-ashef-011776290) [![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@skmahirashef04) [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skmahirashef04@gmail.com)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mahir-o4&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mahir-o4&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahir-o4&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mahir-o4&limit=5&theme=aura&combine_all_yearly_contributions=true)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mahir-o4&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💼 Portfolio
+
+🌐 Explore my work: **[View Portfolio](https://mahirashef12.vercel.app)**
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahir-ashef-011776290)
+[![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@skmahirashef04)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skmahirashef04@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahir-o4&theme=aura&hide_border=false&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Mahir-o4&theme=aura&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahir-o4&theme=aura&hide_border=false&count_private=true&layout=compact)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahir-o4&theme=github-compact&hide_border=false&area=true)
+
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
